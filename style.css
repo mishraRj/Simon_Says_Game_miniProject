@@ -6,6 +6,26 @@ body{
     text-align: center;
     color: white;
 }
+.tutorial{
+    background-color: transparent;
+    color: white;
+    border: 2px solid rgb(59, 182, 223);
+    padding: 5px 20px;
+    border-radius: 35%;
+    transition: 0.7s ease-in-out;
+}
+h3, h1{
+    line-height: 10px;
+}
+h3, p{
+    color: greenyellow;
+}
+
+.tutorial:hover{
+    background-color: rgb(59, 182, 223);
+    color: black;
+    transform: scale(1.05);
+}
 
 .btn{
     height: 150px;
