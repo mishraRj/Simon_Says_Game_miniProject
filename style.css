@@ -21,6 +21,10 @@ h3, p{
     color: greenyellow;
 }
 
+h2{
+    color: red;
+}
+
 .tutorial:hover{
     background-color: rgb(59, 182, 223);
     color: black;
